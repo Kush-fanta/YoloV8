@@ -1,3 +1,3 @@
 confidence_threshold: 0.25
 model_path: yolov8n.pt
-output_path: /kaggle/working/detections.json
+output_path: sample_output\detections.json
