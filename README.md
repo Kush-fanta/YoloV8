@@ -10,8 +10,8 @@ Follow these steps to set up the local environment required to run the script.
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-github-repository-url>
-    cd <repository-folder-name>
+    git clone https://github.com/Kush-fanta/YoloV8
+    cd YoloV8
     ```
 
 2.  **Create and Activate a Virtual Environment**
