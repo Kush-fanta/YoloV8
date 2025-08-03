@@ -90,5 +90,3 @@ The script generates a JSON file containing a list of all detected objects. Each
 ]
 ```
 
-```
-```
