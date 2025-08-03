@@ -56,7 +56,6 @@ The repository is organized as follows:
 ├── requirements.txt        # Python dependencies
 ├── sample_output/          # Directory for output files
 │   └── detections.json     # Sample output file
-├── .gitignore              # Git ignore file
 └── README.md               # Project documentation
 ```
 
